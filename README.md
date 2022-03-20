@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @igreck
 - 👀 I’m interested in software web development
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on web application
+- 🌱 I’m currently learning Software Arhitecture
+- 💞️ I’m looking to collaborate on Full Stack Apps 
 - 📫 How to reach me ... {mail: 'adriangh.dina@gmail.com'}
 
 <!---
