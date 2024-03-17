@@ -2,7 +2,7 @@
 - 👀 I’m interested in software web development
 - 🌱 I’m currently learning Software Arhitecture
 - 💞️ I’m looking to collaborate on Full Stack Apps 
-- 📫 How to reach me ... {mail: 'adriangh.dina@gmail.com'}
+- 📫 How to reach me ... {mail: 'https://iamigreck.web.app'}
 
 <!---
 igreck/igreck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
